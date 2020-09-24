@@ -2,6 +2,8 @@
 This is a 2D Action Role Play Game (2D ARPG)
 Creator: Hin Lui Shum
 
+Run Start_Game.py to start the game
+
 The mission of this game is to fight against the boss with multiple skills
 
 Player will have 30 Hit Points
@@ -23,7 +25,7 @@ Boss will have 3 skills:
 3) Throw 2 tracing cards when boss is less that half health
 
 When player or boss receive damage, they will have a period of time flashing their image,
-That is immunity system, to prevent player spamming K to hit boss or
+That is immunity system, to prevent player spamming K to attack the boss or
 Boss overpowered skills to one-shot players
 
 Special Features:
